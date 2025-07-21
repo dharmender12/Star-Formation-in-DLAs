@@ -1,3 +1,2 @@
 # Star-Formation-in-DLAs
-This is a papers codes you can see on https://doi.org/10.1051/0004-6361/202452542 
-in this code I developed the program which can fit the lines in the spectrum. And Using that we can find the emission in the Damped Lyman alpha (DLA) by using the stacking method. 
+This code is based on the methods described in the paper available at https://doi.org/10.1051/0004-6361/202452542. I extended the original implementation by developing a program that fits spectral lines and enables the detection of emission features in Damped Lyman-Alpha (DLA) systems using spectral stacking techniques.
