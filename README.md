@@ -17,18 +17,19 @@ Astropy
 Matplotlib
 
 You can install the required packages using:
+```
 pip install numpy scipy astropy matplotlib
-
+```
 Installation
-
-Clone the repository:git clone https://github.com/your-username/star-formation-dlas.git
-
+```
+Clone the repository:git clone https://github.com/dharmender12/star-formation-dlas.git
+```
 
 Navigate to the repository directory:cd star-formation-dlas
 
-
+```
 Install the dependencies as listed above.
-
+```
 Usage
 
 Data Preparation: Place your spectral data files (in FITS or compatible format) in the data/ directory.
@@ -36,13 +37,14 @@ Running the Analysis:
 Use fit_spectral_lines.py to perform automated spectral line fitting.
 Use detect_emission.py to identify emission features in DLA spectra.
 Use stack_spectra.py for spectral stacking and enhanced analysis.Example command:
-
+```
 python fit_spectral_lines.py --input data/spectrum.fits --output results/
-
+```
 
 Output: Results, including fitted parameters and stacked spectra, are saved in the results/ directory.
 
 Directory Structure
+```
 star-formation-dlas/
 ├── data/                 # Input spectral data
 ├── results/              # Output results and plots
@@ -50,7 +52,7 @@ star-formation-dlas/
 ├── detect_emission.py    # Script for emission feature detection
 ├── stack_spectra.py      # Script for spectral stacking
 └── README.md             # This file
-
+```
 Contributing
 Contributions are welcome! Please submit a pull request or open an issue for bug reports, feature requests, or suggestions.
 License
