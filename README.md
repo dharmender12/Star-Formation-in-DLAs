@@ -1,7 +1,5 @@
-# Star-Formation-in-DLAs
-This code is based on the methods described in the paper available at https://doi.org/10.1051/0004-6361/202452542. I extended the original implementation by developing a program that fits spectral lines and enables the detection of emission features in Damped Lyman-Alpha (DLA) systems using spectral stacking techniques.
+# Star Formation in DLAs
 
-Star Formation in DLAs
 This repository contains code for analyzing star formation in Damped Lyman-Alpha (DLA) systems, inspired by the methods described in the paper: Star Formation in DLAs. The implementation has been extended to include advanced spectral analysis tools for studying emission-line diagnostics in DLAs.
 Features
 
