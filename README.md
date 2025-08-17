@@ -9,13 +9,13 @@ Spectral Stacking Techniques: Methods for stacking spectra to enhance signal-to-
 
 Requirements
 To run the code, ensure you have the following dependencies installed:
-
+```
 Python 3.8+
 NumPy
 SciPy
 Astropy
 Matplotlib
-
+```
 You can install the required packages using:
 ```
 pip install numpy scipy astropy matplotlib
