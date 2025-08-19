@@ -2,7 +2,7 @@
 
 This repository contains code for analyzing star formation in Damped Lyman-Alpha (DLA) systems, this methods described in the paper: [Star Formation in DLAs](https://doi.org/10.1051/0004-6361/202452542)
 . The implementation has been extended to include advanced spectral analysis tools for studying emission-line diagnostics in DLAs.
-
+---
 ### Features
 
 Automated Fitting of Spectral Lines: Tools for fitting spectral lines to identify and quantify emission features in DLA systems.
