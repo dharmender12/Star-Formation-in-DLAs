@@ -10,6 +10,7 @@ Detection of Emission Features: Algorithms for detecting emission lines in DLA s
 Spectral Stacking Techniques: Methods for stacking spectra to enhance signal-to-noise ratio and improve analysis of faint emission features.
 
 **Requirements**
+
 To run the code, ensure you have the following dependencies installed:
 ```
 Python 3.8+
