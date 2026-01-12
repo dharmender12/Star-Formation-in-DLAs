@@ -5,7 +5,7 @@
 - The implementation has been extended to include advanced spectral analysis tools for studying emission-line diagnostics in DLAs.
 ---
 ### Features
-
+---
 Automated Fitting of Spectral Lines: Tools for fitting spectral lines to identify and quantify emission features in DLA systems.
 Detection of Emission Features: Algorithms for detecting emission lines in DLA spectra, enabling the study of star formation activity.
 Spectral Stacking Techniques: Methods for stacking spectra to enhance signal-to-noise ratio and improve analysis of faint emission features.
